@@ -1,0 +1,12 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\LEVEL-1\level-5\logger.py", line 9, in Operation
+    print(self.x/self.y)
+          ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Capstronproject\level-5\logger.py", line 9, in Operation
+    print(self.x/self.y)
+          ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
